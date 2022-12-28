@@ -1,0 +1,40 @@
+2022-12-22 13:15:24,718 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-22 13:16:35,254 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.general.stores:General_Stores:0.0.1-SNAPSHOT @ E:\SpringBoot Dummy projects\Grocery_shop_billing\Online_Grocery_Store-master (3)\Online_Grocery_Store-master\General_Stores\pom.xml.
+2022-12-22 13:17:16,697 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /General_Stores/src/main/java
+2022-12-22 13:17:16,698 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /General_Stores/src/main/resources
+2022-12-22 13:17:16,700 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /General_Stores/src/main/resources
+2022-12-22 13:17:16,702 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /General_Stores/src/test/java
+2022-12-22 13:17:20,514 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 82 sec
+2022-12-22 13:17:29,251 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-22 13:17:29,289 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-22 13:17:29,337 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 54 resources
+2022-12-22 13:17:31,235 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-22 13:17:31,235 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBoot Dummy projects\Grocery_shop_billing\Online_Grocery_Store-master (3)\Online_Grocery_Store-master\General_Stores\src\test\resources
+2022-12-22 13:18:32,875 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-22 13:18:32,876 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 13:18:32,877 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 13:18:32,880 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-22 13:18:32,880 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBoot Dummy projects\Grocery_shop_billing\Online_Grocery_Store-master (3)\Online_Grocery_Store-master\General_Stores\src\test\resources
+2022-12-22 13:26:43,299 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.9; built: 2022-03-30T16:46:32.527Z; git: a9eaf8d5d73369acf610ce88f850c0d56c4b1113; jvm 17.0.3+7
+2022-12-22 13:26:43,490 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-12-22 13:26:43,877 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@31723b6a{/help,null,AVAILABLE}
+2022-12-22 13:26:44,483 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7768eea{HTTP/1.1, (http/1.1)}{127.0.0.1:50471}
+2022-12-22 13:26:44,575 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@6509ab12{STARTING}[10.0.9,sto=0] @758908ms
+2022-12-22 13:57:04,234 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@6509ab12{STOPPING}[10.0.9,sto=0]
+2022-12-22 13:57:04,947 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7768eea{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-12-22 13:57:05,643 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@31723b6a{/help,null,STOPPED}
+2022-12-23 13:56:13,876 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-23 17:11:05,890 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.9; built: 2022-03-30T16:46:32.527Z; git: a9eaf8d5d73369acf610ce88f850c0d56c4b1113; jvm 17.0.3+7
+2022-12-23 17:11:07,939 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-12-23 17:11:09,088 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1165367c{/help,null,AVAILABLE}
+2022-12-23 17:11:09,771 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@69da01d8{HTTP/1.1, (http/1.1)}{127.0.0.1:59017}
+2022-12-23 17:11:09,777 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@fc20006{STARTING}[10.0.9,sto=0] @11852577ms
+2022-12-23 17:11:09,779 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@fc20006{STOPPING}[10.0.9,sto=0]
+2022-12-23 17:11:09,905 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@69da01d8{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-12-23 17:11:09,914 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1165367c{/help,null,STOPPED}
+2022-12-23 17:11:09,921 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.9; built: 2022-03-30T16:46:32.527Z; git: a9eaf8d5d73369acf610ce88f850c0d56c4b1113; jvm 17.0.3+7
+2022-12-23 17:11:09,923 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-12-23 17:11:09,930 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1423e3da{/help,null,AVAILABLE}
+2022-12-23 17:11:09,939 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@44d0d160{HTTP/1.1, (http/1.1)}{127.0.0.1:59018}
+2022-12-23 17:11:09,939 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@7dacaeb7{STARTING}[10.0.9,sto=0] @11852740ms
+2022-12-26 14:10:28,688 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
